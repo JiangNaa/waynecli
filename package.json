@@ -1,12 +1,12 @@
 {
-  "name": "@soybeanjs/cli",
+  "name": "@waynejs/cli",
   "type": "module",
   "version": "1.0.6",
   "packageManager": "pnpm@8.13.1",
   "description": "SoybeanJS's command line tools",
   "author": {
-    "name": "Soybean",
-    "email": "soybeanjs@outlook.com",
+    "name": "Wayne",
+    "email": "muunala1022@gmail.com",
     "url": "https://github.com/soybeanjs"
   },
   "license": "MIT",
